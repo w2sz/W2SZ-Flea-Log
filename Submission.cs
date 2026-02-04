@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace W2SZ_Flea_Log
+﻿namespace W2SZ_Flea_Log
 {
     internal class Submission
     {
